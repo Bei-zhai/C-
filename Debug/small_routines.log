@@ -1,0 +1,11 @@
+﻿  main.cpp
+  skilllist.cpp
+  smallRoutine.cpp
+E:\学习\C++实训\small_routines\small_routines\smallRoutine.cpp(242,21): warning C4018: “<”: 有符号/无符号不匹配
+  task.cpp
+E:\学习\C++实训\small_routines\small_routines\task.cpp(56,9): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+  tasklist.cpp
+  正在生成代码...
+E:\学习\C++实训\small_routines\small_routines\tasklist.cpp(108): warning C4715: “tasklist::Findtask”: 不是所有的控件路径都返回值
+E:\学习\C++实训\small_routines\small_routines\skilllist.cpp(128): warning C4715: “skilllist::getskill”: 不是所有的控件路径都返回值
+  small_routines.vcxproj -> E:\学习\C++实训\small_routines\Debug\small_routines.exe
